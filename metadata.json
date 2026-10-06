@@ -1,0 +1,6 @@
+{
+  "name": "AT TRADING - Online Shopping Store & Admin",
+  "description": "AT TRADING Kolkata - Complete e-commerce destination with categories, live order tracking, deals, cart checkout, customer account, and admin portal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
